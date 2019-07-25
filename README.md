@@ -1,6 +1,10 @@
 # ProxyRules
  Proxy Rules for HK Adblock
 
+## Hosts File
+File | Link
+---- | ----
+Hosts File | https://github.com/cwtong/ProxyRules/raw/master/Hosts/blocked_hosts_hk.txt
 
 ## Quantumult 
 Rule | Link

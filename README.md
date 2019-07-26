@@ -4,7 +4,8 @@
 ## Hosts File
 File | Link
 ---- | ----
-Hosts File | https://github.com/cwtong/ProxyRules/raw/master/Hosts/blocked_hosts_hk.txt
+Hosts File (HK) | https://github.com/cwtong/ProxyRules/raw/master/Hosts/blocked_hosts_hk.txt
+Hosts File (CN) | https://github.com/cwtong/ProxyRules/raw/master/Hosts/blocked_hosts_cn.txt
 
 ## Quantumult 
 Rule | Link

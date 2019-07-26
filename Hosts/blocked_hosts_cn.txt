@@ -1,3 +1,10 @@
+# 
+# Manually extracted from lhie1's REJECT rules
+# https://github.com/lhie1/Rules/blob/master/Quantumult/Quantumult.conf
+#
+127.0.0.1  localhost
+::1  localhost
+
 127.0.0.1 m.yap.yahoo.com
 127.0.0.1 geo.yahoo.com
 127.0.0.1 doubleplay-conf-yql.media.yahoo.com

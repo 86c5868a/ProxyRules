@@ -15,6 +15,9 @@ HK Adblock Rules | https://github.com/cwtong/ProxyRules/raw/master/Quantumult/ad
 HK Reject Rules | https://github.com/cwtong/ProxyRules/raw/master/Quantumult/reject_hk.conf
 
 ## Quantumult X (TestFlight beta)
-
+Rule | Link
+---- | ----
+HK Adblock Rules (Same as Quantumult)| https://github.com/cwtong/ProxyRules/raw/master/Quantumult/adblock_hk.conf
+HK Reject Rules | https://github.com/cwtong/ProxyRules/raw/master/QuantumultX/reject_hk.conf
 
 ## ClashX (macOS)

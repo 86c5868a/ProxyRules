@@ -41,14 +41,10 @@
 127.0.0.1 me.xdrig.com
 127.0.0.1 lncld.net
 127.0.0.1 concertads-configs.vox-cdn.com
-127.0.0.1 onesignal.com
 127.0.0.1 track.hk01.com
 127.0.0.1 stream-io-api.com
-127.0.0.1 wzrkt.com
-127.0.0.1 wezeroplus.com
 127.0.0.1 hubpd.com
 127.0.0.1 mlinks.cc
-127.0.0.1 umengcloud.com
 127.0.0.1 changyan.itc.cn
 127.0.0.1 0d077ef9e74d8.cdn.sohucs.com
 127.0.0.1 wssjs.cn
@@ -57,7 +53,6 @@
 127.0.0.1 rianpu.cn
 127.0.0.1 cnzz.com
 127.0.0.1 tkshyp.com
-127.0.0.1 umeng.com
 127.0.0.1 ip-api.com
 127.0.0.1 persona.ly
 127.0.0.1 zcoup.com
